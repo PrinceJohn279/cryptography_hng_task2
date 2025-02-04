@@ -36,7 +36,8 @@ For Documentation on package used please follow the link stated above.
     ```sh flutter pub get ```
     
 
-### Running the App
+### Running the App 
+
 
 To run the app, use the following command:
 ```sh
@@ -48,7 +49,6 @@ Enter the text you want to encrypt in the first text field.
 The encrypted text will be displayed below the text field.
 Press the "Decrypt" button to decrypt the encrypted text.
 The decrypted text will be displayed below the button.
-
 
 ### Documentation
 encrypt Package Documentation[https://pub.dev/packages/encrypt]
